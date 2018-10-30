@@ -1,0 +1,8 @@
+.idea/
+
+node_modules
+
+.eslintcache
+lint-review.html
+
+.DS_Store
