@@ -19,5 +19,6 @@ function expect(actual) {
 ```
 
 It takes an actual value and then it returns an object that has functions for different assertions that we can make on that actual value.
-We can expand off of that to also have many more assertions. 
+We can expand off of that to also have many more assertions.
 
+See example, [index.js](./index.js)
