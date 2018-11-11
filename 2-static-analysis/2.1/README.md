@@ -1,4 +1,4 @@
-# 2.1 Lint Javascript by configuring and running ESLint
+# 2.1 Lint JavaScript by configuring and running ESLint
 
 `npm install --save-dev eslint`
 
