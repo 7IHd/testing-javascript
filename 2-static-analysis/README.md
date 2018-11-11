@@ -4,4 +4,5 @@ We could write a bunch of automated tests for our entire codebase, but that woul
 Luckily, there are tools we can use.
 
 ## [2.1 Lint JavaScript by configuring and running ESLint](2.1/)
-## [2.2 Static Analysis Testing JavaScript Applications](2.2/)
+## [2.2 Format Code by installing and running Prettier](2.2/)
+## [2.3 Configure Prettier](2.3/)
