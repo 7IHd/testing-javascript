@@ -8,3 +8,8 @@ lint-review.html
 .DS_Store
 
 ./2-static-analysis/2.1/node_modules
+./2-static-analysis/2.1/package-lock.json
+
+./2-static-analysis/2.2/node_modules
+./2-static-analysis/2.2/package-lock.json
+
