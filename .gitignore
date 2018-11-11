@@ -6,3 +6,5 @@ node_modules
 lint-review.html
 
 .DS_Store
+
+./2-static-analysis/2.1/node_modules
