@@ -7,3 +7,4 @@ Luckily, there are tools we can use.
 ## [2.2 Format Code by installing and running Prettier](2.2/)
 ## [2.3 Configure Prettier](2.3/)
 ## [2.4 Disable Unnecessary ESLint Stylistic Rules with eslint-config-prettier](2.4/)
+## [2.5 Validate all files are formatted when linting](2.5/)
