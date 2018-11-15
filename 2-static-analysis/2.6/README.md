@@ -3,7 +3,7 @@ ESLint can check for a lot of things, but it’s not a great tool for checking t
 
 For this you'll need a type-checking tool like Flow or TypeScript.
 
-## Let's look at how Flow works.
+## Let's look at how Flow works
 Install `flow` as a dev dependency.
 
 ```
