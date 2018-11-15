@@ -13,3 +13,8 @@ lint-review.html
 ./2-static-analysis/2.2/node_modules
 ./2-static-analysis/2.2/package-lock.json
 
+./2-static-analysis/2.5/node_modules
+./2-static-analysis/2.5/package-lock.json
+
+./2-static-analysis/2.6/node_modules
+./2-static-analysis/2.6/package-lock.json
