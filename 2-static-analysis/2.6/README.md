@@ -1,4 +1,4 @@
-# Static Analysis Testing JavaScript Application
+# Avoid Common Errors with Flow Type Definitions
 ESLint can check for a lot of things, but it’s not a great tool for checking the types of variables that flow through your application.
 
 For this you'll need a type-checking tool like Flow or TypeScript.

@@ -8,4 +8,5 @@ Luckily, there are tools we can use.
 ## [2.3 Configure Prettier](2.3/)
 ## [2.4 Disable Unnecessary ESLint Stylistic Rules with eslint-config-prettier](2.4/)
 ## [2.5 Validate all files are formatted when linting](2.5/)
-## [2.6 Static Analysis Testing JavaScript Application](2.6/)
+## [2.6 Avoid Common Errors with Flow Type Definitions](2.6/)
+## [2.7 Validate Code in a pre-commit git Hook with husky](2.7/)
