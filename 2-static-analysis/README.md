@@ -10,3 +10,4 @@ Luckily, there are tools we can use.
 ## [2.5 Validate all files are formatted when linting](2.5/)
 ## [2.6 Avoid Common Errors with Flow Type Definitions](2.6/)
 ## [2.7 Validate Code in a pre-commit git Hook with husky](2.7/)
+## [2.8 Auto-format all files and validate relevant files in a precommit script with lint-staged](2.8/)
