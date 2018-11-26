@@ -21,3 +21,6 @@ lint-review.html
 
 ./2-static-analysis/2.7/node_modules
 ./2-static-analysis/2.7/package-lock.json
+
+./2-static-analysis/2.8/node_modules
+./2-static-analysis/2.8/package-lock.json
